@@ -93,7 +93,7 @@ class Predictor:
 
 def main():
     # 설정
-    MODEL_PATH = 'best_model.pth'
+    MODEL_PATH = 'models/best_model.pth'
     TEST_DIR = 'data/test'
     OUTPUT_DIR = 'data/predictions'
     
